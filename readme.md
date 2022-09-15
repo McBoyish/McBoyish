@@ -1,20 +1,6 @@
-[<img alt="Aditya" src="./assets/img/aditya.png" />](https://aditya2810.me)
-
-<p align="center">
-  <img src="./assets/gif/BBT.gif" alt="Big Bang Theory Giffy" height="300px">
-</p>
-
 ## I'm a Full Stack Developer!!
 
-- 👨🏼‍🎓 Graduate from MVSR Engineering College, Hyderabad in B.E Computer Science.
-
-- 👨🏽‍💻 JavaScript Guy.
-
-- 💻 Full Stack Engineer at [MockTheta, Inc.](https://mocktheta.co/)
-
-- 🧑‍🤝‍🧑 Love connecting with different people❤️.
-
-- 👨🏻‍🎤 Music is love!! and so is [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw?autoplay=true).
+- 👨🏼‍🎓 Graduating from Concordia University, Quebec, Canada in B.Sc Computer Science.
 
 - Enjoy learning and knowing new technologies and stuff😎.
 

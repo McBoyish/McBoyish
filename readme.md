@@ -4,6 +4,8 @@
 
 - Enjoy learning and knowing new technologies and stuff.
 
+- Love learning how to develop games
+
 ---
 
 ## Tools and Technologies:

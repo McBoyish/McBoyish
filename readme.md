@@ -1,8 +1,8 @@
-## I'm a Full Stack Developer!!
+## I'm a Software Developer!
 
 - 👨🏼‍🎓 Graduating (in Summer 2023) from Concordia University, Quebec, Canada in B.Sc Computer Science.
 
-- Enjoy learning and knowing new technologies and stuff😎.
+- Enjoy learning and knowing new technologies and stuff.
 
 ---
 

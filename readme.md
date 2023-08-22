@@ -1,10 +1,8 @@
 ## I'm a Software Developer!
 
-- 👨🏼‍🎓 Graduating (in Summer 2023) from Concordia University, Quebec, Canada in B.Sc Computer Science.
+- Computer science graduate at Concordia University, Quebec, Canada.
 
 - Enjoy learning and knowing new technologies and stuff.
-
-- Love learning how to develop games
 
 ---
 
@@ -36,10 +34,8 @@
 
 ## Connect with me:
 
-[<img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail-id]
 [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin-link]
 
-[gmail-id]: mailto:jakelsh3832@gmail.com
 [linkedin-link]: https://www.linkedin.com/in/jake-li-shing-hiung/
 
 ---

@@ -6,6 +6,12 @@
 
 ---
 
+## Some of my projects
+
+https://github.com/McBoyish/McBoyish/assets/65048370/f8f9df00-5784-4c7a-91cc-c0776b396873
+
+https://github.com/McBoyish/sfml-snake/assets/65048370/5a78fbcf-3972-4198-845b-806d8c1b1b9b
+
 ## Tools and Technologies:
 
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

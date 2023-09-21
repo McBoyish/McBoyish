@@ -34,7 +34,7 @@ https://github.com/McBoyish/arkanoid/assets/65048370/2a529cc3-2544-40a7-91d7-6f6
 
 ---
 
-[![McBoyish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=McBoyish&show_icons=true&bg_color=0e153a&title_color=e2f3f5&text_color=e2f3f5&icon_color=e2f3f5)](https://github.com/McBoyish?tab=repositories)
+<!--[![McBoyish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=McBoyish&show_icons=true&bg_color=0e153a&title_color=e2f3f5&text_color=e2f3f5&icon_color=e2f3f5)](https://github.com/McBoyish?tab=repositories)-->
 
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=McBoyish&layout=compact&title_color=e2f3f5&bg_color=0e153a&text_color=e2f3f5)](https://github.com/McBoyish?tab=repositories)
 

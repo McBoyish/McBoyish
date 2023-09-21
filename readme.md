@@ -2,7 +2,7 @@
 
 - Computer science graduate at Concordia University, Quebec, Canada.
 
-- Enjoy learning and knowing new technologies and stuff.
+- Enjoy learning new technologies.
 
 ---
 

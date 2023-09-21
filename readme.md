@@ -6,7 +6,7 @@
 
 ---
 
-## Some of my projects
+## Some of my projects (video has no sound)
 
 https://github.com/McBoyish/McBoyish/assets/65048370/f8f9df00-5784-4c7a-91cc-c0776b396873
 

@@ -6,11 +6,13 @@
 
 ---
 
-## Some of my projects (video has no sound)
+## Some of my projects (videos has no sound)
 
 https://github.com/McBoyish/McBoyish/assets/65048370/f8f9df00-5784-4c7a-91cc-c0776b396873
 
 https://github.com/McBoyish/sfml-snake/assets/65048370/5a78fbcf-3972-4198-845b-806d8c1b1b9b
+
+https://github.com/McBoyish/arkanoid/assets/65048370/2a529cc3-2544-40a7-91d7-6f66da22103c
 
 ## Tools and Technologies:
 
